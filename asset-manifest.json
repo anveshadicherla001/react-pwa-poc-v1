@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-pwa-poc-v1/static/css/main.708a9dbd.css",
+    "main.js": "/react-pwa-poc-v1/static/js/main.e49a8135.js",
+    "static/js/787.928b531b.chunk.js": "/react-pwa-poc-v1/static/js/787.928b531b.chunk.js",
+    "service-worker.js": "/react-pwa-poc-v1/service-worker.js",
+    "index.html": "/react-pwa-poc-v1/index.html",
+    "main.708a9dbd.css.map": "/react-pwa-poc-v1/static/css/main.708a9dbd.css.map",
+    "main.e49a8135.js.map": "/react-pwa-poc-v1/static/js/main.e49a8135.js.map",
+    "787.928b531b.chunk.js.map": "/react-pwa-poc-v1/static/js/787.928b531b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708a9dbd.css",
+    "static/js/main.e49a8135.js"
+  ]
+}
