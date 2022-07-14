@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-pwa-poc-v1/static/css/main.708a9dbd.css",
-    "main.js": "/react-pwa-poc-v1/static/js/main.efef4d89.js",
-    "static/js/787.928b531b.chunk.js": "/react-pwa-poc-v1/static/js/787.928b531b.chunk.js",
+    "main.css": "/react-pwa-poc-v1/static/css/main.d7e4e78b.css",
+    "main.js": "/react-pwa-poc-v1/static/js/main.fc2a1451.js",
+    "static/js/27.dae6af51.chunk.js": "/react-pwa-poc-v1/static/js/27.dae6af51.chunk.js",
     "service-worker.js": "/react-pwa-poc-v1/service-worker.js",
-    "index.html": "/react-pwa-poc-v1/index.html",
-    "main.708a9dbd.css.map": "/react-pwa-poc-v1/static/css/main.708a9dbd.css.map",
-    "main.efef4d89.js.map": "/react-pwa-poc-v1/static/js/main.efef4d89.js.map",
-    "787.928b531b.chunk.js.map": "/react-pwa-poc-v1/static/js/787.928b531b.chunk.js.map"
+    "index.html": "/react-pwa-poc-v1/index.html"
   },
   "entrypoints": [
-    "static/css/main.708a9dbd.css",
-    "static/js/main.efef4d89.js"
+    "static/css/main.d7e4e78b.css",
+    "static/js/main.fc2a1451.js"
   ]
 }
